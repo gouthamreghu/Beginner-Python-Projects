@@ -61,7 +61,7 @@ Description: Develop a graphical user interface (GUI) for the classic game.
 Learn GUI programming with Python libraries like Tkinter.
 Allow the player to make choices and determine the winner.
 
-##Project 6: Contact Book
+## Project 6: Contact Book
 
 Build a simple contact book with features to add, view, search, and save contacts.
 Practice working with dictionaries, file I/O, and user input.
