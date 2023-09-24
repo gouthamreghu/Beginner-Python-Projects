@@ -6,9 +6,9 @@ This README provides an introduction to three beginner-friendly Python projects:
 
 ## Project 1: Slot Machine Game
 
-Description: The Slot Machine game simulates a classic casino slot machine. Players can spin the reels and hope to match symbols to win virtual currency. It's a fun way to practice Python's random number generation and control flow.
+### Description: The Slot Machine game simulates a classic casino slot machine. Players can spin the reels and hope to match symbols to win virtual currency. It's a fun way to practice Python's random number generation and control flow.
 
-Key Learning Points:
+### Key Learning Points:
 
 Basic user input and output (I/O).
 Conditional statements (if-else).
@@ -18,9 +18,9 @@ Usage: Run the Python script, follow on-screen instructions to place bets and sp
 
 ## Project 2: Calculator Application
 
-Description: The Calculator application is a command-line calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It's a practical project to strengthen your understanding of Python's math operations and user input handling.
+### Description: The Calculator application is a command-line calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It's a practical project to strengthen your understanding of Python's math operations and user input handling.
 
-Key Learning Points:
+### Key Learning Points:
 
 User input validation.
 Arithmetic operations.
@@ -30,9 +30,9 @@ Usage: Execute the Python script and follow the prompts to enter numbers and sel
 
 ## Project 3: To-Do List Manager
 
-Description: The To-Do List manager allows users to create, view, edit, and delete tasks. It's a more complex project that introduces the concept of data storage and manipulation. You'll use Python dictionaries to manage tasks.
+### Description: The To-Do List manager allows users to create, view, edit, and delete tasks. It's a more complex project that introduces the concept of data storage and manipulation. You'll use Python dictionaries to manage tasks.
 
-Key Learning Points:
+### Key Learning Points:
 
 Working with data structures (dictionaries).
 File I/O for saving and loading tasks.
