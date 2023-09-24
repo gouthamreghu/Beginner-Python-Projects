@@ -1,5 +1,5 @@
 
-Python Beginner Projects
+#Python Beginner Projects
 This README provides an introduction to three beginner-friendly Python projects: a Slot Machine game, a Calculator application, and a To-Do List manager. These projects are ideal for those who are new to Python programming and want to build practical applications to improve their skills.
 
 Project 1: Slot Machine Game
