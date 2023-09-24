@@ -55,4 +55,25 @@ Prompt the user for their desired password length and complexity (e.g., uppercas
 Generate a random password based on the user's preferences.
 Display the generated password to the user.
 
-These beginner Python projects provide hands-on experience and a solid foundation in Python programming. Feel free to explore and enhance these projects as you progress in your Python journey. Remember, the best way to learn is by doing, so dive in and start coding!
+## Project 5: Rock, Paper, Scissors Game with GUI
+
+Description: Develop a graphical user interface (GUI) for the classic game.
+Learn GUI programming with Python libraries like Tkinter.
+Allow the player to make choices and determine the winner.
+
+##Project 6: Contact Book
+
+Build a simple contact book with features to add, view, search, and save contacts.
+Practice working with dictionaries, file I/O, and user input.
+Store contact information such as names, phone numbers, and email addresses.
+
+# Getting Started
+
+Each project has its own folder containing the source code and a README file with instructions on how to run the project. Feel free to explore, modify, and enhance these projects to further your Python skills.
+
+Happy coding! 🐍
+
+
+
+
+
