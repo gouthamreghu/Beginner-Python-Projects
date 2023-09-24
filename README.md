@@ -40,4 +40,19 @@ User-friendly menu-driven interface.
 Task manipulation and organization.
 Usage: Run the Python script to access the To-Do List manager. Use the menu options to add, view, edit, and delete tasks. Tasks are saved to a file for future use.
 
+## Project 4: Password Generator
+
+Description:The Password Generator project generates secure and random passwords for users. It's a practical tool for enhancing online security.
+
+### Key Concepts:
+
+Random number and character generation
+User input for password length and complexity
+String manipulation
+How to Get Started:
+
+Prompt the user for their desired password length and complexity (e.g., uppercase, lowercase, digits, symbols).
+Generate a random password based on the user's preferences.
+Display the generated password to the user.
+
 These beginner Python projects provide hands-on experience and a solid foundation in Python programming. Feel free to explore and enhance these projects as you progress in your Python journey. Remember, the best way to learn is by doing, so dive in and start coding!
